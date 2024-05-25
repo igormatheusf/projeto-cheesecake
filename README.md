@@ -28,7 +28,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 <p align="center">
   <img alt="Projeto Cheesecake na versão desktop" src="./assets/Desktop.jpg" width="100%">
   <br>
-  <img alt="Projeto Cheesecake na versão mobile" src="./assets/Mobile.jpg" width="100%">
+  <img alt="Projeto Cheesecake na versão mobile" src="./assets/Mobile.jpg" width="393px">
 </p>
 
 ---
